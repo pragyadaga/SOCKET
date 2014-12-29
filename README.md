@@ -3,6 +3,10 @@ SOCKET
 SERVER STAGES THROUGH SOCKET PROGRAMMING 
 ======
 
+
+
+Have to write proper documentation
+
 To compile any server code :
 						 	gcc server.c -o server
 To run the server :
